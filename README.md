@@ -1,4 +1,24 @@
-## Hi there 👋
+## 👋 Hi there! I'm Nihal Reddy
+
+I’m a trained computer scientist passionate about Python, Data Science, and Deep Learning. I enjoy building AI systems that solve real-world problems, from intelligent assistants to efficient data pipelines.
+
+### 🚀 Current Projects
+- 🔭 **AI-powered Route Optimization** – Designing a smart itinerary planner to reduce travel time for sales executives using ML & geospatial data.
+- 🖼️ **Improved Autoencoder for Image Transmission** – Built a custom autoencoder with perceptual loss & entropy coding achieving **11% higher SSIM** and **40% improved compression**.
+
+### 🤝 Looking to Collaborate
+I'm open to collaborating on:
+- Machine Learning & NLP projects
+- Deep Learning model optimization
+- Open-source AI tools or social good applications
+
+### 📫 How to Reach Me
+- ✉️ Email: [nihalreddysingasani@gmail.com]
+- 🌐 Resume: [https://drive.google.com/file/d/1NC3JzvhawY7ZGWNurznoZlCsCDRswZ_y/view?usp=sharing]
+
+---
+
+Thanks for stopping by! Feel free to check out my pinned repositories below 👇
 
 <!--
 **Blaze786n/Blaze786n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
