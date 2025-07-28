@@ -14,7 +14,7 @@ I'm open to collaborating on:
 
 ### 📫 How to Reach Me
 - ✉️ Email: [nihalreddysingasani@gmail.com]
-- 🌐 Resume: [https://drive.google.com/file/d/1NC3JzvhawY7ZGWNurznoZlCsCDRswZ_y/view?usp=sharing]
+- 🌐 Resume: [https://drive.google.com/file/d/1OP8jW_sg6N3f4uX7E799UXcyq7RI7Epg/view?usp=drive_link]
 
 ---
 
