@@ -5,6 +5,7 @@ I’m a trained computer scientist passionate about Python, Data Science, and De
 ### 🚀 Current Projects
 - 🔭 **AI-powered Route Optimization** – Designing a smart itinerary planner to reduce travel time for sales executives using ML & geospatial data.
 - 🖼️ **Improved Autoencoder for Image Transmission** – Built a custom autoencoder with perceptual loss & entropy coding achieving **11% higher SSIM** and **40% improved compression**.
+- **Build an AI Second Brain** - Built and automated an AI-powered second brain using Claude Code and Obsidian. Designed a CLAUDE.md schema and custom slash commands to ingest, cross-link, and maintain a personal wiki.
 
 ### 🤝 Looking to Collaborate
 I'm open to collaborating on:
@@ -14,7 +15,7 @@ I'm open to collaborating on:
 
 ### 📫 How to Reach Me
 - ✉️ Email: [nihalreddysingasani@gmail.com]
-- 🌐 Resume: [https://drive.google.com/file/d/1OP8jW_sg6N3f4uX7E799UXcyq7RI7Epg/view?usp=drive_link]
+- 🌐 Resume: [https://drive.google.com/file/d/1RND-qid1o7y2NPv8OozrxzqazC_LS0jW/view?usp=sharing]
 
 ---
 
